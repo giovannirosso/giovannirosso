@@ -24,5 +24,6 @@ If you want to connect with me or learn more about Mindtech, feel free to click 
 Here are some of my most popular projects on GitHub:
 
 [![EnergyIO](https://github-readme-stats.vercel.app/api/pin/?username=giovannirosso&theme=dark&repo=EnergyIO-esp32)](https://github.com/giovannirosso/EnergyIO-esp32)
+[![TinyGSM](https://github-readme-stats.vercel.app/api/pin/?username=giovannirosso&theme=dark&repo=TinyGSM)](https://github.com/vshymanskyy/TinyGSM)
 
 Feel free to check them out and give me some feedback!
