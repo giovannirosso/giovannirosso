@@ -14,12 +14,3 @@ If you want to connect with me or learn more about Mindtech, feel free to click 
 ## My Repository Status :chart_with_upwards_trend:
 
 [![Giovanni de Rosso Unruh's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannirosso&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&theme=dark)](#)
-
-## Featured Projects :star2:
-
-Here are some of my most popular projects on GitHub:
-
-[![EnergyIO](https://github-readme-stats.vercel.app/api/pin/?username=giovannirosso&theme=dark&repo=EnergyIO-esp32)](https://github.com/giovannirosso/EnergyIO-esp32)
-[![TinyGSM](https://github-readme-stats.vercel.app/api/pin/?username=giovannirosso&theme=dark&repo=TinyGSM)](https://github.com/vshymanskyy/TinyGSM)
-
-Feel free to check them out and give me some feedback!
