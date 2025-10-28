@@ -1,9 +1,5 @@
 # Giovanni de Rosso Unruh
 
-## About Me :wave:
-
-Hi there! My name is Giovanni de Rosso Unruh and I'm an electronics engineer graduated from UTFPR. I'm 27 years old and currently working in the IoT field as a CPO at Mindtech.
-
 ## Connections :iphone:
 
 If you want to connect with me or learn more about Mindtech, feel free to click on the links below:
