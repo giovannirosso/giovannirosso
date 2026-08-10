@@ -1,6 +1,6 @@
 # Olá, eu sou o Giovanni 👋
 
-Engenheiro Eletrônico (UTFPR) trabalhando com **sistemas embarcados e IoT** na [Mindtech – Soluções em IoT](https://mindtech.com.br/), em Curitiba - PR.
+Engenheiro em Eletrônica (UTFPR) trabalhando com **sistemas embarcados e IoT** na [Mindtech – Soluções em IoT](https://mindtech.com.br/), em Curitiba - PR.
 
 ## 🚀 Sobre mim
 
