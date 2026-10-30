@@ -21,7 +21,7 @@ Engenheiro em Eletrônica (UTFPR) trabalhando com **sistemas embarcados e IoT** 
 
 ## 📌 Projetos em destaque
 
-- 🔌 [**MQTT_A7672SA**](https://github.com/giovannirosso/MQTT_A7672SA) — biblioteca C++ para comunicação MQTT entre o módulo SIMCOM A7672SA e o ESP32
+- 🔌 [**A7672SA**](https://github.com/giovannirosso/a7672sa-esp-idf) — biblioteca C para comunicação MQTT entre o módulo SIMCOM A7672SA e o ESP32
 - ⚡ [**EnergyIO-ESP32**](https://github.com/giovannirosso/EnergyIO-ESP32) — TCC: monitoramento de energia e água com ESP32
 - 🔬 [**VHDL-Projects**](https://github.com/giovannirosso/VHDL-Projects) — projetos em VHDL simulados com GHDL e GTKWave
 - 🖼️ [**Digital-Image-Processing**](https://github.com/giovannirosso/Digital-Image-Processing) — algoritmo em MATLAB para detecção de respostas via OMR
